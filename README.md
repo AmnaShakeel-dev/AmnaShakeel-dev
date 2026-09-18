@@ -2,14 +2,12 @@
 �
 �
 , I'm Amna Shakeel</h1> <h3 align="center">Aspiring Full
-Stack MERN Developer | Final Year IT Student</h3>
+Stack MERN Developer | Completed my BS IT</h3>
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?
 font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&
 alt="Typing SVG" /> </p>
 🚀
  About Me
-🎓
- I'm in my final semester of IT, currently giving my last exams
 💻
  I love building full stack web applications using the MERN Stack
 🌱
